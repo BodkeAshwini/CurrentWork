@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-30 06:57:05</sys_created_on>
-        <sys_id>03ceba944f00130054e0a7d18110c778</sys_id>
+        <sys_id>fb9094fc4f00130054e0a7d18110c7d5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_188003_applicati_student</sys_name>
         <sys_package display_value="application-1" source="x_188003_applicati">92ebfa904f00130054e0a7d18110c786</sys_package>
         <sys_policy/>
         <sys_scope display_value="application-1">92ebfa904f00130054e0a7d18110c786</sys_scope>
-        <sys_update_name>ua_table_licensing_config_03ceba944f00130054e0a7d18110c778</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_fb9094fc4f00130054e0a7d18110c7d5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-01-30 06:57:05</sys_updated_on>
     </ua_table_licensing_config>
